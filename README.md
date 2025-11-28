@@ -1,7 +1,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4llone&layout=donut&theme=dark" />
 
 <div align="center", style="margin-top: 20px;">
-<img src="https://media.tenor.com/AX7-25j5eL8AAAAM/%D0%B0%D1%80%D0%B1%D1%83%D0%B7-arbuz.gif" height="40" />
+<img src="https://media.tenor.com/AX7-25j5eL8AAAAM/%D0%B0%D1%80%D0%B1%D1%83%D0%B7-arbuz.gif"/>
 </div>
 <!--
 **M4llone/M4llone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
